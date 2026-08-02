@@ -16,10 +16,9 @@ I founded to expand STEM access for underrepresented students.
 `TypeScript` `Python` `React` `Next.js` `FastAPI` `Node.js` `Azure`
 
 **Featured projects**
-- [ACEI-Dashboard](link) — internal data visualization tool, React + TypeScript
-- [Official-TOF-Website](www.tof24.org) — nonprofit site, Next.js/Tailwind
+- [ACEI-Dashboard](https://github.com/Puriti275/ACEI-Dashboard/tree/main) — internal data visualization tool, React + TypeScript
+- [Official-TOF-Website](https://www.tof24.org) — nonprofit site, Next.js/Tailwind
 - [Full-Stack E-Commerce Platform](https://www.tof24.org/merch.html) — Stripe-integrated merch store, Node/Express/MySQL
-
 
 📫 aellis69@vols.utk.edu · [LinkedIn](linkedin.com/in/andrew-ellis275)
 
