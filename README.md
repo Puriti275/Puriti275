@@ -9,16 +9,17 @@ I founded to expand STEM access for underrepresented students.
 
 **What I'm working on**
 - 🤖 LLM-driven dashboard generation pipelines (AskNexus.ai)
-- 🎓 A learning management system for TOF, architected with our CTO
+- 🎓 A learning management system for [TOF](www.tof24.org), architected with our CTO
 - 📊 Internal data dashboards for the Anderson Center for Entrepreneurship
 
-**Tech I use**
-`TypeScript` `Python` `React` `Next.js` `FastAPI` `Node.js` `Docker` `Kubernetes` `Azure`
+**My Tech Stack**
+`TypeScript` `Python` `React` `Next.js` `FastAPI` `Node.js` `Azure`
 
 **Featured projects**
 - [ACEI-Dashboard](link) — internal data visualization tool, React + TypeScript
 - [Official-TOF-Website](www.tof24.org) — nonprofit site, Next.js/Tailwind
-- [Full-Stack E-Commerce Platform]([link](https://www.tof24.org/merch.html)) — Stripe-integrated merch store, Node/Express/MySQL
+- [Full-Stack E-Commerce Platform](https://www.tof24.org/merch.html) — Stripe-integrated merch store, Node/Express/MySQL
+
 
 📫 aellis69@vols.utk.edu · [LinkedIn](linkedin.com/in/andrew-ellis275)
 
