@@ -6,7 +6,7 @@ for school districts, and running the [Technology Outreach Foundation](https://w
 I founded to expand STEM access for minority students.
 
 **What I'm working on**
-- 🤖 LLM-driven dashboard generation pipelines (AskNexus.ai)
+- 🤖 LLM-driven dashboard generation pipelines ([AskNexus.ai](https://www.asknexus.ai))
 - 🎓 A learning management system for [TOF](https://www.tof24.org), architected with our CTO
 - 📊 Internal data dashboards for the Anderson Center for Entrepreneurship
 
