@@ -1,15 +1,13 @@
-## Hi there 👋
+### Hello, I'm Andrew Ellis 👋
 
-### Hi, I'm Andrew 👋
-
-Full-stack engineer building AI-driven tools for education. CS student at UTK
-(grad 2028) — currently interning at AskNexus.ai building LLM-powered analytics
-for school districts, and running Technology Outreach Foundation, a nonprofit
-I founded to expand STEM access for underrepresented students.
+I'm a full-stack engineer building AI-driven tools for education. CS student at UTK
+(grad 2028) — currently interning at [AskNexus.ai](https://www.asknexus.ai) building LLM-powered analytics
+for school districts, and running the [Technology Outreach Foundation](https://www.tof24.org), a nonprofit
+I founded to expand STEM access for minority students.
 
 **What I'm working on**
 - 🤖 LLM-driven dashboard generation pipelines (AskNexus.ai)
-- 🎓 A learning management system for [TOF](www.tof24.org), architected with our CTO
+- 🎓 A learning management system for [TOF](https://www.tof24.org), architected with our CTO
 - 📊 Internal data dashboards for the Anderson Center for Entrepreneurship
 
 **My Tech Stack**
